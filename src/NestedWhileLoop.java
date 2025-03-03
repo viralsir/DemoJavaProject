@@ -39,12 +39,12 @@ public class NestedWhileLoop {
                 }
                 start++;
             }
-            System.out.println(divisor_count);
+           // System.out.println(divisor_count);
             if(divisor_count==2)
             {
                 System.out.println(num);
             }
-            System.out.println("num="+num);
+          //  System.out.println("num="+num);
          num++;
 
 
