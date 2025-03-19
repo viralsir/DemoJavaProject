@@ -98,7 +98,16 @@ public class FunctionDemo
         //System.out.println(fobj.total());
         fobj.total();
 
+
+
+
+
+
     }
+
+
+
+
 
 }
 

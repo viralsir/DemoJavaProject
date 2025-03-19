@@ -1,3 +1,4 @@
+import SunShine.Doctor;
 import java.util.Scanner;
 
 /*
@@ -19,6 +20,8 @@ public class LoopDemo
 {
     public static void main(String[] args)
     {
+
+        Doctor doctor = new Doctor();
 
         Scanner input = new Scanner(System.in);
 //

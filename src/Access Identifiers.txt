@@ -1,0 +1,30 @@
+data hiding or access specifiers
+
+
+
+
+
+keyword                 private         protected           default         public
+same class              yes             yes                 yes             yes
+
+different sub class     no              yes                 yes             yes
+
+different non
+sub class               no              yes                 yes             yes
+
+
+same package
+sub class               no              yes                 yes             yes
+
+
+same package
+non sub class           no              yes                 yes             yes
+
+different package
+sub class               no              yes                 no              yes
+
+different package
+non sub class           no              no                  no              yes
+
+
+
