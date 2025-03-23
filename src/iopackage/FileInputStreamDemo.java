@@ -5,7 +5,7 @@ class FileInputStreamDemo
 {
 	public static void main(String args[])throws Exception
 	{
-		FileInputStream ff = new FileInputStream("D:\\Student\\sahil\\Java\\BasicJavaProject\\src\\iopackage\\FileInputStreamDemo.java");
+		FileInputStream ff = new FileInputStream("D:\\Student\\Dhaval\\DemoJavaProject\\src\\iopackage\\ByteArrayInputStreamDemo.java");
 		int c;
 		while((c=ff.read())!=-1)
 		{
